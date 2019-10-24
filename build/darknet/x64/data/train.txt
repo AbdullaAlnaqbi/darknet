@@ -173,7 +173,6 @@
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093650.jpg
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093651.jpg
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093652.jpg
-/content/darknet/build/darknet/x64/data/img/2019-10-21-093657.jpg
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093659.jpg
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093700 (1).jpg
 /content/darknet/build/darknet/x64/data/img/2019-10-21-093701.jpg
